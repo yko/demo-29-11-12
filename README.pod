@@ -1,0 +1,9 @@
+=head1 Sources for Perl debugging demo on 29/11/2012
+
+For those who were interested during my talk at L<http://kiev.pm.org> meeting on 29/11/2012
+
+Some files are commented how to run them. Some are not.
+
+Most interesting/fun things, like live debugging examples in different IDEs, unexpectedly frozen vim, lost files, etc. happened during the demo at Yandex office in Kyiv.
+
+=cut

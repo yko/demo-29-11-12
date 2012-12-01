@@ -1,0 +1,36 @@
+demo=/home/korshak/Documents/ya-debug-11-2012 {
+README.pod
+ 01.simple=01.simple {
+  01.simple.pl
+  02.print.pl
+  03.debug.pl
+  04.const-debug.pl
+  05.cgi.pl
+  05.01.cgi-redirect.pl
+ }
+ 02.facility=02.facility {
+  01.facility.pl
+  02.facility-cfg.pl
+  03.facility-mojo.pl
+  04.facility-dancer.pl
+  05.facility-plack.pl
+ }
+ 03.oneliners=03.oneliners {
+  01.oneliners.sh
+ }
+ 04.deparse=04.deparse {
+  01.deparse.sh
+  02.deparse.pl
+  03.deparse-const.pl
+  04.camel.pl
+ }
+ 05.debugger=05.debugger {
+  01.debugger.pl
+  02.debugger-fork.pl
+  03.debugger-try.pl
+  05.plack.pl
+  06.embedded.c
+  Makefile
+  setup-environment.sh
+ }
+}
